@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "779557259720",
+    "project_id": "monprof-fe74a",
+    "storage_bucket": "monprof-fe74a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:779557259720:android:23e803135306097f7318fd",
+        "android_client_info": {
+          "package_name": "com.example.monprof"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "779557259720-dnvfgv4jaa4fdtlieu619im41i3k8f1d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKU18ewr0CcpB-CO855HWRNAcWI7vsrWI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "779557259720-dnvfgv4jaa4fdtlieu619im41i3k8f1d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
